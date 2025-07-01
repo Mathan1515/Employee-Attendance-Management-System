@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Employee Report</title>
+</head>
+<body>
+    <h2>Employee Report</h2>
+    <p>Department: Software Developer</p>
+    <p>Period: 06-05-2025 to 06-05-2025</p>
+    
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Department</th>
+                <th>Date</th>
+                <th>Shift</th>
+                <th>Check In</th>
+                <th>Notes</th>
+                <th>In Status</th>
+                <th>Check Out</th>
+                <th>Out Status</th>
+            </tr>
+        </thead>
+        <tbody><tr>
+            <td>Mathan Raja</td>
+            <td>Software Developer</td>
+            <td>2025-05-06</td>
+            <td>09:30:00-17:30:00</td>
+            <td>10:09:54</td>
+            <td>office test
+</td>
+            <td>Late</td>
+            <td>00:00:00</td>
+            <td></td>
+        </tr>  </tbody>
+    </table>
+</body>
+</html>
